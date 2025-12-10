@@ -1,0 +1,11 @@
+Command	Meaning
+git init	Start git in your project
+git add .	Add all files to staging
+git commit -m ""	Save changes
+git branch -M main	Rename branch to main
+git remote add origin URL	Connect to GitHub
+git push -u origin main	Upload project
+git pull origin main	Download from GitHub
+git status	Check what’s happening
+git merge --abort	Cancel merge
+git commit (merge)	Finish merge
