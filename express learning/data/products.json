@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Oppo F21s Pro 5G",
+    "price": 245.67,
+    "description": "Oppo F21s Pro 5G is a powerful device",
+    "ratings": 4.5,
+    "images": [
+      { "image": "/images/products/1.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Samsung Galaxy A54 5G",
+    "price": 349.99,
+    "description": "Samsung Galaxy A54 5G with Super AMOLED display and long battery life.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "/images/products/2.jpg" },
+      { "image": "/images/products/2b.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "Samsung Store",
+    "stock": 12
+  },
+  {
+    "name": "iPhone 14",
+    "price": 799.00,
+    "description": "Apple iPhone 14 with advanced camera and A15 Bionic processor.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/products/3.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "Apple Store",
+    "stock": 7
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "price": 199.49,
+    "description": "OnePlus Nord CE 3 Lite offers smooth performance and fast charging.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "/images/products/4.jpg" },
+      { "image": "/images/products/4b.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "OnePlus",
+    "stock": 15
+  },
+  {
+    "name": "Xiaomi Redmi Note 12",
+    "price": 159.99,
+    "description": "Redmi Note 12 features a stunning display and excellent battery backup.",
+    "ratings": 4.4,
+    "images": [
+      { "image": "/images/products/5.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "Mi Store",
+    "stock": 20
+  },
+  {
+    "name": "Vivo V27 Pro",
+    "price": 429.00,
+    "description": "Vivo V27 Pro with curved display and impressive camera system.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/products/6.jpg" },
+      { "image": "/images/products/6b.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "sellor": "Vivo",
+    "stock": 9
+  }
+]
